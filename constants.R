@@ -1,0 +1,1 @@
+aboutHTML = HTML("MRMR is a package which enables actuaries to analyze non-life loss reserves.")
